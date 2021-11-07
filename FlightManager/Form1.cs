@@ -16,5 +16,18 @@ namespace FlightManager
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            UserLogin us = new UserLogin();
+            us.Show();
+        }
+
+ 
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
