@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/FlightManager/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/FlightManager/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
