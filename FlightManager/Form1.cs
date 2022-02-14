@@ -12,6 +12,7 @@ namespace FlightManager
 {
     public partial class Form1 : Form
     {
+        // This is a comment for test purposes.
         public Form1()
         {
             InitializeComponent();
